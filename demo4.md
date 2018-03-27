@@ -19,10 +19,10 @@
   
 基本图片:  
     ![alt](url text)  
-![](https://wwww.baidu.com/img/baidu_jgylogo3.pif)
+![](https://www.baidu.com/img/baidu_jgylogo3.gif)
 图片链接:  
      
-[![](https://www.baidu.com/img/baidu_jgylogo3.pif)](http://www.baidu.com)
+[![](https://www.baidu.com/img/baidu_jgylogo3.gif)](http://www.baidu.com)
 
 
 <!--已下是本文中的链接-->  
@@ -41,17 +41,43 @@
 
 
 ## 多级列表问题 
-
-
- 1.item1  
-   1.item1.1  
-   2.item1.2  
- 2.item2  
- 
- 
- 3.item3  
+- 问题一 :如何打断,空行不行,需要文字段落       
+1.item1     
+    1.item1.1  
+    2.item1.2  
+2.item2  
    
- 4.item4
+   
+asasfas
+   
+ 
+3.item3  
+   
+4.item4
+ 
+
+
+
+
+
+
+
+- 问题二:打断的列表，如何续上
+
+
+1.item1     
+    1.item1.1  
+    2.item1.2  
+2.item2  
+   
+   
+   
+       asasfas
+   
+ 
+3.item3  
+   
+4.item4
  
  
 
