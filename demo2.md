@@ -48,6 +48,10 @@ console.log(a);
 '''
 
 
+    var a = 10;
+    console。log(a);  
+a
+
  
 [百度]: http://www.baidu.com
 [baidu]: http://www.baidu.com
@@ -55,4 +59,5 @@ console.log(a);
 [代码块demo] :demo2.md#代码块-demo
 [baidu_logo]: https://www.baidu.com/img/baidu_jgylogo3.gif
  
- [open_png]:styles/open.png 
+ [open_png]:styles/open.png
+ 
