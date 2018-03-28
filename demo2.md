@@ -1,20 +1,20 @@
-###Welcome to use MarkDown
+### Welcome to use MarkDown
 
-##链接 demo   
-###内嵌式链接   
+## 链接 demo   
+### 内嵌式链接   
 - 外部链接 [百度] (http://www.baidu.com)  
 - 内部链接1： 链接到仓库的其他文件： [demo1](demo1.md)    
 - 内部链接2： 链接到本文档的其他部分： [代码块demo](demo2.md#代码块-demo)  
 
 
-###引用式连接
+###  引用式连接
 
 - 外部链接：[百度]   
 - 外部链接: [百度][baidu]  
 - 内部链接1，链接仓库的其他文件： [demo1]
 - 内部链接2，链接到本文档的其他部分：[代码块demo]
 
-##图片demo  
+##  图片demo  
 - 图片的Markdown 语法  
 
     ![alt](url text)
@@ -22,7 +22,7 @@
 
 
 
-![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif"百度网站")
+![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif)
 
 
 
