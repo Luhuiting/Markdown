@@ -26,6 +26,9 @@ ___
 |:----| :-----:|  -----|  
 | cellasfsdfad1|  cellvgsddf gdfgsdgdg2| celladafdfa3|   
 | **row 2**| row 2|  ![][baidu_logo]|  
+
+
+
 |made|demo|[baidu]|  
   
   精简表格     
@@ -33,9 +36,6 @@ ___
   ----  |:----:|---- :
   adfadfa|afasdfa|asdfasd  
   row2|row2|row2  
-[baidu_logo]: https://www.baidu.com/img/baidu_jgylogo3.gif
-[baidu]: http://www.baidu.com
-
 
 ##GTM语法demo
 
@@ -51,4 +51,5 @@ emoji 表情符号
 :snake:
 :pray:
     
-
+[baidu_logo]: https://www.baidu.com/img/baidu_jgylogo3.gif
+[baidu]: http://www.baidu.com
