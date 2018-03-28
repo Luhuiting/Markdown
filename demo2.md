@@ -18,9 +18,13 @@
 - 图片的Markdown 语法  
 
     ![alt](url text)
-- 外部图片 demo 
+- 外部图片 demo  
+
+
 
 ![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif"百度网站")
+
+
 
 
 - 仓库内的图片
